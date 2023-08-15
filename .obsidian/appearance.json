@@ -1,0 +1,10 @@
+{
+  "accentColor": "#00aaff",
+  "theme": "moonstone",
+  "translucency": false,
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "letter_space"
+  ],
+  "textFontFamily": "微软雅黑"
+}

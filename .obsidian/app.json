@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "attachments",
+  "vimMode": true,
+  "showLineNumber": true
+}
